@@ -4,8 +4,8 @@ def countc(c,ch):
         if i == c:
             ccount += 1
     return(ccount)
-Huong = countc("c", "combien de temp tu etudier")
-print(Huong)
+Ex2 = countc("c", "combien de temp tu etudier")
+print(Ex2)
  #exercise 2.2
 def Ex22(c,i, ch):
     output = ""
